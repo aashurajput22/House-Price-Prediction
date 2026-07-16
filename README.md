@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="assets/banner.png" alt="House Price Prediction Banner" width="100%">
-</p>
+<img width="903" height="605" alt="image" src="https://github.com/user-attachments/assets/e08faec7-2210-4ae2-9e9f-b64ca1f8a2de" />
+
 <div align="center">
 
 # 🏠 House Price Prediction using Linear Regression

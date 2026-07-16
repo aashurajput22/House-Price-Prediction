@@ -185,7 +185,7 @@ This project demonstrates a complete Machine Learning workflow, including:
 ---
 
 # 📷 Project Output
-
+images/home.png
 ## 📊 Dataset Preview
 ```md
 !<img width="1455" height="725" alt="image" src="https://github.com/user-attachments/assets/efd2d7db-c3b3-4b1e-a7ad-91b9e8d84f2e" />
@@ -219,6 +219,15 @@ This project demonstrates a complete Machine Learning workflow, including:
 
 ```
 
+---
+# **Live Application**
+
+The Streamlit application was deployed using Google Colab and ngrok.
+
+Live URL
+https://corsage-engraver-oxidant.ngrok-free.dev/
+
+---
 ---
 
 # 📌 Key Learnings
@@ -267,7 +276,7 @@ Open the notebook using Jupyter Notebook or Google Colab.
 ```
 https://colab.research.google.com/drive/1frWi2-1paz5BCdFymD-ldvl2kEDMp5ju?usp=sharing
 
-
+```
 ---
 
 # 📂 Repository Structure

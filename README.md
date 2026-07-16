@@ -187,51 +187,36 @@ This project demonstrates a complete Machine Learning workflow, including:
 # 📷 Project Output
 
 ## 📊 Dataset Preview
-
-> Add your dataset screenshot here.
-
 ```md
-![Dataset](assets/dataset_preview.png)
+!<img width="1455" height="725" alt="image" src="https://github.com/user-attachments/assets/efd2d7db-c3b3-4b1e-a7ad-91b9e8d84f2e" />
 ```
-
 ---
 
-## 📉 Histogram
-
-> Add histogram screenshot here.
-
-```md
-![Histogram](assets/histogram.png)
-```
-
----
 
 ## 🔥 Correlation Heatmap
 
-> Add heatmap screenshot here.
-
 ```md
-![Heatmap](assets/heatmap.png)
+<img width="892" height="605" alt="image" src="https://github.com/user-attachments/assets/40ae70d1-43ac-41ea-9864-e06d3018a2c7" />
+
 ```
 
 ---
 
 ## 📈 Actual vs Predicted Values
 
-> Add prediction graph here.
-
 ```md
-![Prediction](assets/actual_vs_predicted.png)
+
+<img width="892" height="605" alt="image" src="https://github.com/user-attachments/assets/67650643-b85c-467d-b18a-80c302784140" />
+
 ```
 
 ---
 
 ## 📉 Residual Plot
 
-> Add residual plot here.
-
 ```md
-![Residual Plot](assets/residuals.png)
+<img width="892" height="605" alt="image" src="https://github.com/user-attachments/assets/b6a2b904-0194-4ece-8041-9bbcdeaa3291" />
+
 ```
 
 ---
@@ -279,11 +264,9 @@ pip install -r requirements.txt
 
 Open the notebook using Jupyter Notebook or Google Colab.
 
-```bash
-jupyter notebook
 ```
+https://colab.research.google.com/drive/1frWi2-1paz5BCdFymD-ldvl2kEDMp5ju?usp=sharing
 
-or upload the notebook to **Google Colab** and run all cells.
 
 ---
 

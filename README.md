@@ -183,41 +183,34 @@ This project demonstrates a complete Machine Learning workflow, including:
 ✔ Performance indicates a good baseline model that can be further improved using advanced regression algorithms.
 
 ---
-
 # 📷 Project Output
-images/home.png
-## 📊 Dataset Preview
-```md
-!<img width="1455" height="725" alt="image" src="https://github.com/user-attachments/assets/efd2d7db-c3b3-4b1e-a7ad-91b9e8d84f2e" />
-```
+
+<img src="images/home.png" width="800"/>
+
 ---
 
+## 📊 Dataset Preview
+
+<img src="https://github.com/user-attachments/assets/efd2d7db-c3b3-4b1e-a7ad-91b9e8d84f2e" width="800"/>
+
+---
 
 ## 🔥 Correlation Heatmap
 
-```md
-<img width="892" height="605" alt="image" src="https://github.com/user-attachments/assets/40ae70d1-43ac-41ea-9864-e06d3018a2c7" />
-
-```
+<img src="https://github.com/user-attachments/assets/40ae70d1-43ac-41ea-9864-e06d3018a2c7" width="800"/>
 
 ---
 
 ## 📈 Actual vs Predicted Values
 
-```md
-
-<img width="892" height="605" alt="image" src="https://github.com/user-attachments/assets/67650643-b85c-467d-b18a-80c302784140" />
-
-```
+<img src="https://github.com/user-attachments/assets/67650643-b85c-467d-b18a-80c302784140" width="800"/>
 
 ---
 
 ## 📉 Residual Plot
 
-```md
-<img width="892" height="605" alt="image" src="https://github.com/user-attachments/assets/b6a2b904-0194-4ece-8041-9bbcdeaa3291" />
+<img src="https://github.com/user-attachments/assets/b6a2b904-0194-4ece-8041-9bbcdeaa3291" width="800"/>
 
-```
 
 ---
 # **Live Application**
